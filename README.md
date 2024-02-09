@@ -1,2 +1,6 @@
 # data-structures-and-algorithms
-Repository for work in Data Structures and Algorithms Coursera Specialization by UC San Diego &amp; Duke
+
+This repository holds the assignments in Data Structures and Algorithms Coursera Specialization taught by UC San Diego and Duke.
+
+### Course certificates:
+https://coursera.org/share/8f15e84562a0bb338d75a866c232b022
